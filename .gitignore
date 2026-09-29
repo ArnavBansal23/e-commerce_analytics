@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Dataset files
+data/raw/
+data/processed/
