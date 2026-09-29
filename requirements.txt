@@ -1,6 +1,8 @@
-pandas 
-numpy 
-matplotlib 
-seaborn 
-jupyter 
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
 ipykernel
+psycopg[binary]
+python-dotenv
